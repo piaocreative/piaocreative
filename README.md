@@ -17,7 +17,7 @@ I am excited to have the opportunity to share my expertise and passion for web d
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=piaocreative&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub)](#)
 
-[![Profile views](https://komarev.com/ghpvc/?username=james-gates-0212&label=Profile+views&color=blue&style=flat&abbreviated=0)](#)
-[![GitHub followers](https://img.shields.io/github/followers/james-gates-0212?style=flat)](#)
-[![GitHub User's stars](https://img.shields.io/github/stars/james-gates-0212?style=flat)](#)
-[![GitHub forks](https://img.shields.io/github/forks/james-gates-0212/james-gates-0212?style=flat)](#)
+[![Profile views](https://komarev.com/ghpvc/?username=piaocreative&label=Profile+views&color=blue&style=flat&abbreviated=0)](#)
+[![GitHub followers](https://img.shields.io/github/followers/piaocreative?style=flat)](#)
+[![GitHub User's stars](https://img.shields.io/github/stars/piaocreative?style=flat)](#)
+[![GitHub forks](https://img.shields.io/github/forks/piaocreative/piaocreative?style=flat)](#)
